@@ -773,8 +773,6 @@ xianyu-auto-reply/
 
 ## 🚀 云服务器推荐
 
-### 【划算云】国内外云服务器、全球CDN、挂机宝  www.hsykj.com
-
 
 ## 🚀 快速开始
 
