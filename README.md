@@ -4,9 +4,7 @@
 
 | 微信群 | 微信群1 | QQ群 |
 |:---:|:---:|:---:|
-| ![微信群](static/wechat-group.png) | ![微信群1](static/wechat-group1.png) | ![QQ群](static/qq-group.png) |
-
-
+|
 
 <details>
 <summary>⚠️ 以下是某些不知名人士提供的分析报告，请一定要看，谨慎使用啊，切莫自误啊（点击展开）</summary>
